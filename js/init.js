@@ -1,13 +1,3 @@
-document.addEventListener("DOMContentLoaded", function () {
-    // Simulate a delay (e.g., fetching data) - Replace with your actual loading logic
-    setTimeout(function () {
-        // Hide the splash screen
-        document.getElementById("splash-screen").style.display = "none";
-        
-        // Show the main content
-        document.getElementById("main-content").style.display = "block";
-    }, 2000); // Adjust the delay duration (in milliseconds) as needed
-});
 
 (function($) {
 

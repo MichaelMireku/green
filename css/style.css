@@ -15,26 +15,6 @@
 
 	body
 	{
-		#splash-screen {
-		
-			position: fixed;
-			top: 0;
-			left: 0;
-			width: 100%;
-			height: 100%;
-			background-color: #fff;
-			display: flex;
-			flex-direction: column;
-			align-items: center;
-			justify-content: center;
-			z-index: 9999; /* Ensure the splash screen appears on top of other content */
-		}
-		
-		.splash-logo {
-			width: 150px; /* Adjust the size according to your logo */
-			margin-bottom: 20px;
-		}
-		
 		
 
 		background: #f5f5f5 url(images/bg01.jpg) repeat;
