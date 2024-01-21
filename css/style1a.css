@@ -39,20 +39,7 @@
 			color: #63BF9A;
 		}
 
-	
-	h1
-	{
-		font-weight: 400;
-		color: black;
-		letter-spacing: -0.05em;
-	}
-
-		
-
-
-
-
-	h2,h3,h4,h5,h6
+	h1,h2,h3,h4,h5,h6
 	{
 		font-weight: 400;
 		color: #fff;
@@ -190,8 +177,8 @@
 	#header
 	{
 		position: relative;
-		background: white url('images/overlay.png');
-		color: black;
+		background: #63BF9A url('images/overlay.png');
+		color: #fff;
 		cursor: default;
 	}
 	

@@ -570,9 +570,9 @@ var parallelism = (function($) { var _ = {
 						grid: { gutters: 5 },
 						containers: '100%',
 						breakpoints: {
-							global: { range: '*', href: 'css/style1.css' },
-							desktop: { range: '737-', href: 'css/style-desktop1.css', viewport: { width: 1280, scalable: false } },
-							mobile: { range: '-736', href: 'css/style-mobile1.css', viewport: { scalable: false } }
+							global: { range: '*', href: 'css/style.css' },
+							desktop: { range: '737-', href: 'css/style-desktop.css', viewport: { width: 1280, scalable: false } },
+							mobile: { range: '-736', href: 'css/style-mobile.css', viewport: { scalable: false } }
 						}
 					});
 					
